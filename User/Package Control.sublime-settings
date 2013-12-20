@@ -1,0 +1,29 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"AngularJS",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"DashDoc",
+		"DocBlockr",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"Grunt",
+		"Handlebars",
+		"HTML-CSS-JS Prettify",
+		"Inc-Dec-Value",
+		"LESS",
+		"Live CSS",
+		"Markdown Extended",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"Tag",
+		"Theme - Soda",
+		"Toggle Read-Only",
+		"ZenCoding"
+	]
+}

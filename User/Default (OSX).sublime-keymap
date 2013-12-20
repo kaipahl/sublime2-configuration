@@ -1,0 +1,8 @@
+[
+	{"keys":["ctrl+super+right"], "command": "indent"},
+	{"keys":["ctrl+super+left"], "command": "unindent"},
+	{"keys":["alt+ctrl+super+c"], "command": "show_panel", "args": {"panel": "console", "toggle": true} },
+	{"keys":["ctrl+super+w"], "command": "toggle_setting", "args": {"setting": "word_wrap"} },
+	{"keys":["super+alt+."], "command": "close_tag" }
+
+]

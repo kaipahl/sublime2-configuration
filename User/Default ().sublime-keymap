@@ -1,0 +1,4 @@
+[
+	{ "keys": ["super+ctrl+right"], "command": "indent" },
+	{ "keys": ["super+ctrl+left"], "command": "unindent" }
+]

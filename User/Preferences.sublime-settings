@@ -1,0 +1,14 @@
+{
+	"caret_style": "wide",
+	"color_scheme": "Packages/Color Scheme - Default/dogfood.tmTheme",
+	"disable_tab_abbreviations": true,
+	"draw_minimap_border": true,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage",
+		"Live CSS"
+	],
+	"theme": "Soda Dark.sublime-theme",
+	"word_wrap": true
+}
