@@ -1,6 +1,6 @@
 {
 	"caret_style": "wide",
-	"color_scheme": "Packages/Color Scheme - Default/dogfood.tmTheme",
+	"color_scheme": "Packages/User/dogfood.tmTheme",
 	"disable_tab_abbreviations": true,
 	"draw_minimap_border": true,
 	"highlight_line": true,
