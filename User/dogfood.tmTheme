@@ -475,6 +475,17 @@
 				<string>#00dcc922</string>
 			</dict>
 		</dict>
+		<dict>
+            <key>name</key>
+            <string>Bracket Curly</string>
+            <key>scope</key>
+            <string>brackethighlighter.default</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#ff6600</string>
+            </dict>
+        </dict>
 
 	</array>
 	<key>uuid</key>
